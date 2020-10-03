@@ -1,0 +1,6 @@
+name = "qrgen"
+type = "webpack"
+account_id = "d3dc6a444545e9bb309d9d72068285f1"
+workers_dev = true
+route = ""
+zone_id = ""
